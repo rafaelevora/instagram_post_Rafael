@@ -22,6 +22,7 @@ body {
 }
 .text-top-left > p {
   margin: 0;
+  font-size: 80%;
 }
 .icon-ellipsis {
   margin-left: auto;
