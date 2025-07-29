@@ -17,20 +17,30 @@ body {
   align-items: center;
   width: 100%;
 }
+.icon-html {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 5%;
+}
+
 .text-top-left > p {
   margin: 0;
   font-size: 80%;
 }
 .icon-ellipsis {
   margin-left: auto;
+  padding-right: 4%;
 }
 .image img {
   width: 100%;
+  aspect-ratio: 1 / 1;
 }
 .lower-icons {
   display: flex;
   height: 80%;
   padding-top: 15px;
+  padding-right: 4%;
+  padding-left: 5%;
 }
 .icons-left {
   width: 50%;
@@ -40,4 +50,6 @@ body {
 }
 .text-bellow {
   padding-top: 15px;
+  padding-right: 4%;
+  padding-left: 5%;
 }
