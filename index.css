@@ -1,0 +1,45 @@
+/* * {
+  border: 1px red solid;
+} */
+body {
+  height: 100%;
+  font-family: "Roboto";
+  display: flex;
+  background-color: black;
+}
+.main-div {
+  margin: auto;
+  background-color: white;
+  width: 60%;
+}
+.top-main-div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+.icon-html {
+}
+.text-top-left > p {
+  margin: 0;
+}
+.icon-ellipsis {
+  margin-left: auto;
+}
+.image img {
+  width: 100%;
+}
+.lower-icons {
+  display: flex;
+  height: 80%;
+  padding-top: 15px;
+}
+.icons-left {
+  width: 50%;
+}
+.icons-right {
+  margin-left: auto;
+}
+.text-bellow {
+  padding-top: 15px;
+}
